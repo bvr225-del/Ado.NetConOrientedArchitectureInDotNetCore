@@ -1,0 +1,6 @@
+@Ado.NetConOrientedArchitectureInDotNetCore_HostAddress = http://localhost:5207
+
+GET {{Ado.NetConOrientedArchitectureInDotNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
