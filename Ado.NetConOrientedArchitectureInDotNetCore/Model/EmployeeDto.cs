@@ -1,6 +1,6 @@
 ﻿namespace Ado.NetConOrientedArchitectureInDotNetCore.Model
 {
-    public class Employee
+    public class EmployeeDto
     {
         public int empid { get; set; } //it is a property of employee class and it is of type int and it is a primary key in the database.
         public int empsalary { get; set; }//it is a property of employee class and it is of type int and it is a column in the database.
